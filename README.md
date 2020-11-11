@@ -3,4 +3,4 @@
 
 1. Countdown Timer
 - screenshot
-![countdown timer](Screenshots/Countdown-Timer.png)
+<img src="Screenshots/Countdown-Timer.gif" />
