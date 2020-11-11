@@ -2,5 +2,11 @@
 > Base on Florin Pop's "10 JavaScript Projects in 10 Hours" [YouTube video](https://youtu.be/dtKciwk_si4)
 
 1. Countdown Timer
-- screenshot
+- Design: [Countdown Timer](https://uidesigndaily.com/posts/sketch-countdown-timer-day-876)
+- Screenshot
 <img src="Screenshots/Countdown-Timer.gif" />
+
+2. Quiz app
+- Design: [Questionnaire](https://uidesigndaily.com/posts/sketch-questionnaire-choice-submit-day-924)
+- Screenshot
+<img src="Screenshots/Quiz-app.gif" />
