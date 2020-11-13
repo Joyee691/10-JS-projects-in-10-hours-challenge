@@ -135,6 +135,6 @@ header button{
     cursor: pointer;
 }
 
-.favorite-btn:active{
+.favorite-btn.active{
     color: rgb(251, 65, 65);
 }
