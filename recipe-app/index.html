@@ -11,22 +11,31 @@
 <body>
     <div class="mobile-container">
         <header>
-            <input type="text" />
+            <input type="text" id="search-term" />
             <button id="search"><i class="fas fa-search"></i></button>
         </header>
-        <div class="favorite-container">
-            <h3>Favorite Meals</h3>
-            <ul class="favorite-meals">
-                <li><img src="https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3150&q=80" alt="salmon"><span>Salmon</span></li>
-                <li><img src="https://images.unsplash.com/photo-1587040690786-b091531837a2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80" alt="tofu"><span>Tofu</span></li>
-                <li><img src="https://images.unsplash.com/photo-1568096889942-6eedde686635?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80" alt="noodles"><span>Noodles</span></li>
-                <li><img src="https://images.unsplash.com/photo-1581331474665-a0bbee7dfba9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80" alt="sushi"><span>Sushi</span></li>
-                <li><img src="https://images.unsplash.com/photo-1572449043416-55f4685c9bb7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=60" alt="salad"><span>Salad</span></li>
+        <article class="favorite-container">
+            <h2>Favorite Meals Bar</h2>
+            <ul class="favorite-meals" id="favorite-meals">
+                <!-- the favorite meal will be shown here -->
             </ul>
-        </div>
+        </article>
         <div class="meals" id="meals">
-            
+            <!-- meals' brief introduction will be shown here -->
         </div>
+        <article class="meal-popup-container" id="meal-popup-container">
+            <article class="meal-popup" id="meal-popup">
+                <button class="popup-close" id="popup-close"><i class="fas fa-times"></i></button>
+                <!-- the meal infomation popup will be shown here -->
+                <div class="meal-info" id="meal-info"></div>
+                
+                
+                
+
+
+            </artical>
+        </article>
+
     </div>
 </body>
 </html>
