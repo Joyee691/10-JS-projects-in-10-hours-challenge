@@ -15,3 +15,8 @@
 - Design: [Recipe App](https://uidesigndaily.com/posts/sketch-recipe-app-food-mobile-day-615)
 - Screenshot
 <img src="Screenshots/Recipe-app.png" />
+
+3. Notes app
+- Design: [Notes Widget](https://uidesigndaily.com/posts/photoshop-notes-widget-day-65)
+- Screenshot
+<img src="Screenshots/" />
