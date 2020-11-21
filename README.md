@@ -19,4 +19,4 @@
 3. Notes app
 - Design: [Notes Widget](https://uidesigndaily.com/posts/photoshop-notes-widget-day-65)
 - Screenshot
-<img src="Screenshots/" />
+<img src="Screenshots/Notes-app" />
