@@ -24,4 +24,4 @@
 4. ToDo app
 - Design: [todos](http://todomvc.com/examples/react/#/)
 - Screenshot
-<img src="Screenshots/" />
+<img src="Screenshots/todo-app.png" />
