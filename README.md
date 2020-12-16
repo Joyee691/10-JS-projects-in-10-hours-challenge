@@ -25,3 +25,8 @@
 - Design: [todos](http://todomvc.com/examples/react/#/)
 - Screenshot
 <img src="Screenshots/todo-app.png" />
+
+5. Movie app
+- Design: [Movie App](https://uidesigndaily.com/posts/photoshop-movie-app-mobile-day-193)
+- Screenshot
+<img src="Screenshots/" />
