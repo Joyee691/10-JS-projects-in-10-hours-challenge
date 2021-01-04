@@ -29,4 +29,4 @@
 5. Movie app
 - Design: [Movie App](https://uidesigndaily.com/posts/photoshop-movie-app-mobile-day-193)
 - Screenshot
-<img src="Screenshots/" />
+<img src="Screenshots/Movie-app.png" />
