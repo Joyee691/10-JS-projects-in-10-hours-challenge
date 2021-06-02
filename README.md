@@ -48,3 +48,8 @@
 - only canvas
 - Screenshot
   <img src='Screenshots/canvas-app.png' />
+
+9. Password Generator
+- Design: [Password Generator](https://codepen.io/FlorinPop17/full/BaBePej)
+- Screenshot
+  <img src='Screenshots/Password Generator.png' />
