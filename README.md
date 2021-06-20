@@ -52,4 +52,9 @@
 9. Password Generator
 - Design: [Password Generator](https://codepen.io/FlorinPop17/full/BaBePej)
 - Screenshot
-  <img src='Screenshots/Password Generator.png' />
+  <img src='Screenshots/Password-Generator.png' />
+
+10. Weather App
+- Design: [Weather App](https://uidesigndaily.com/posts/photoshop-weather-prognosis-day-156)
+- Screenshot
+  <img src='Screenshots/Weather-App.png'>
